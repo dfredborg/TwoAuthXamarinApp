@@ -1,0 +1,1 @@
+C:\Users\def\source\repos\TwoFactorApp\TwoFactorApp\TwoFactorApp.UWP\TwoFactorApp.UWP.csproj;x86

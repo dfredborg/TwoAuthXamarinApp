@@ -1,0 +1,11 @@
+C:\Users\def\source\repos\TwoFactorApp\TwoFactorApp\TwoFactorApp\bin\Debug\netstandard2.0\TwoFactorApp.deps.json
+C:\Users\def\source\repos\TwoFactorApp\TwoFactorApp\TwoFactorApp\bin\Debug\netstandard2.0\TwoFactorApp.dll
+C:\Users\def\source\repos\TwoFactorApp\TwoFactorApp\TwoFactorApp\bin\Debug\netstandard2.0\TwoFactorApp.pdb
+C:\Users\def\source\repos\TwoFactorApp\TwoFactorApp\TwoFactorApp\obj\Debug\netstandard2.0\TwoFactorApp.csprojAssemblyReference.cache
+C:\Users\def\source\repos\TwoFactorApp\TwoFactorApp\TwoFactorApp\obj\Debug\netstandard2.0\TwoFactorApp.csproj.CoreCompileInputs.cache
+C:\Users\def\source\repos\TwoFactorApp\TwoFactorApp\TwoFactorApp\obj\Debug\netstandard2.0\TwoFactorApp.App.xaml.g.cs
+C:\Users\def\source\repos\TwoFactorApp\TwoFactorApp\TwoFactorApp\obj\Debug\netstandard2.0\TwoFactorApp.Views.MainPage.xaml.g.cs
+C:\Users\def\source\repos\TwoFactorApp\TwoFactorApp\TwoFactorApp\obj\Debug\netstandard2.0\TwoFactorApp.AssemblyInfoInputs.cache
+C:\Users\def\source\repos\TwoFactorApp\TwoFactorApp\TwoFactorApp\obj\Debug\netstandard2.0\TwoFactorApp.AssemblyInfo.cs
+C:\Users\def\source\repos\TwoFactorApp\TwoFactorApp\TwoFactorApp\obj\Debug\netstandard2.0\TwoFactorApp.dll
+C:\Users\def\source\repos\TwoFactorApp\TwoFactorApp\TwoFactorApp\obj\Debug\netstandard2.0\TwoFactorApp.pdb
